@@ -7,9 +7,13 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/hNNJqpL.png" width="560">
+</p>
+
+
 # SIUX Studio + Tauri integration
 This is a boilerplate integration of [SIUX Studio](https://siux.studio) and [Tauri](https://tauri.app/)
-
 
 ## Getting started
 
